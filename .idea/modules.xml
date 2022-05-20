@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jet's API Project.iml" filepath="$PROJECT_DIR$/Jet's API Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JetAPI.iml" filepath="$PROJECT_DIR$/JetAPI.iml" />
     </modules>
   </component>
 </project>
